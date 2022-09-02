@@ -1,0 +1,17 @@
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\bin\Debug\GUIwithSQL.exe.config
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\bin\Debug\GUIwithSQL.exe
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\bin\Debug\GUIwithSQL.pdb
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.csproj.AssemblyReference.cache
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.csproj.SuggestedBindingRedirects.cache
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.Form1.resources
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.Properties.Resources.resources
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.csproj.GenerateResource.cache
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.csproj.CoreCompileInputs.cache
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.exe
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.pdb
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.Insert.resources
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.Delete.resources
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.Update.resources
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.SendMail.resources
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.ImportCsv.resources
+D:\visual studio repos\GUIwithSQL\GUIwithSQL\obj\Debug\GUIwithSQL.SupportCaseEntry.resources

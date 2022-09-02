@@ -1,0 +1,14 @@
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\bin\Debug\Baca_Analizorleri_Kontrolu.exe.config
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\bin\Debug\Baca_Analizorleri_Kontrolu.exe
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\bin\Debug\Baca_Analizorleri_Kontrolu.pdb
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.csproj.AssemblyReference.cache
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.csproj.SuggestedBindingRedirects.cache
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.Properties.Resources.resources
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.csproj.GenerateResource.cache
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.csproj.CoreCompileInputs.cache
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.exe
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.pdb
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.AnaMenu.resources
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.TamamlamaEkrani.resources
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.iptalEkrani.resources
+D:\visual studio repos\Baca_Analizorleri_Kontrolu\Baca_Analizorleri_Kontrolu\obj\Debug\Baca_Analizorleri_Kontrolu.log.resources
